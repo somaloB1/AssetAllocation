@@ -1,2 +1,5 @@
-import streamlit as st
-import yfinance as yf
+streamlit>=1.25
+yfinance>=0.2.40
+pandas>=1.5
+numpy>=1.23
+requests
